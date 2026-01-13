@@ -12,6 +12,7 @@
   height: 350px;
   perspective: 800px;
   border-style: none;
+  flex-wrap: nowrap;
 }
 
 .card-inner {
